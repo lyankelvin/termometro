@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int ehPrimo(int n) {
 
@@ -28,3 +27,4 @@ int main() {
     }
 
 }
+
